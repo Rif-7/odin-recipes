@@ -1,0 +1,15 @@
+* {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+ul, ol {
+    font-size: large;
+}
+
+li {
+    border-bottom: 2px solid white;
+    padding: 8px;
+}
+
